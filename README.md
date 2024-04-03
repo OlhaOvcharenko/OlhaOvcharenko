@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Junior Full Stack Developer.</h1>
-
-          - And it means that I am actively improving my skills and ready to get new knowledge as much as possible.
+And it means that I am actively improving my skills and ready to get new knowledge as much as possible.
           
 - 🔭 I’m currently working on improving of my final project: https://github.com/OlhaOvcharenko/Jewelry-Shop
 
