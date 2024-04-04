@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Junior Full Stack Developer.</h1>
+<h1 align="center">Hi there 👋🏻 I'm Junior Full Stack Developer 👩🏻‍🎓</h1>
 
  [![HitCount](https://hits.dwyl.com/OlhaOvcharenko/OlhaOvcharenko.svg?style=flat-square)](http://hits.dwyl.com/OlhaOvcharenko/OlhaOvcharenko)
  
