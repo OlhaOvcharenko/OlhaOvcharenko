@@ -1,14 +1,29 @@
 <h1 align="center">Hi 👋, I'm Junior Full Stack Developer.</h1>
- 
- And it means that I am actively improving my skills and ready to get new knowledge as much as possible.
-          
-- 🔭 I’m currently working on improving of my final project: https://github.com/OlhaOvcharenko/Jewelry-Shop
 
-- 💬 Ask me about **JavaScript/React/HTML/SCSS.**
+ [![HitCount](https://hits.dwyl.com/OlhaOvcharenko/OlhaOvcharenko.svg?style=flat-square)](http://hits.dwyl.com/OlhaOvcharenko/OlhaOvcharenko)
+ 
+ And it means that I am actively improving my skills and always ready to get new knowledge as much as possible.
+          
+- 🔭 I’m currently working on upgrading of my final project.[Check it out!](https://github.com/OlhaOvcharenko/Jewelry-Shop)
+  
+- 👩‍💻I like seeking new challenges at work  to stay inspired and achieve success.
+
+- 💬 Ask me about **JavaScript/React/HTML/SCSS/MongoDB/MySQL.**
 
 - 📫 How to reach me: **ovcharenko.olga.2014@gmail.com**
 
 - ⚡ Fun fact: **I ❤ travelling and rabbits 🐰**
+
+  ###
+  At the beginning of my venture as a developer I find it both challenging and engaging simultaneously. It's sparked a multitude of questions
+  and a strong desire to delve deeper into the subject matter.
+  
+  Equally attracted to both front-end and back-end development, I try to keep pace with the latest updates and innovations in both areas,
+  constantly seeking out new ideas and advancements in the world of technology.
+  
+  I firmly believe that dedicated practice and focused learning will lead to the desired results.
+
+
 
 <p align="left">
 </p>
