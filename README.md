@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **JavaScript/React/HTML/SCSS/MongoDB/MySQL.**
 
-- 📫 How to reach me: **ovcharenko.olga.2014@gmail.com**
+- 📫 How to reach me: ovcharenko.olga.2014@gmail.com
 
 - ⚡ Fun fact: **I ❤ travelling and rabbits 🐰**
 
