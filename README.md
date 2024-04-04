@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact: **I ❤ travelling and rabbits 🐰**
 
-  ###
+# # #
   At the beginning of my venture as a developer I find it both challenging and engaging simultaneously. It's sparked a multitude of questions
   and a strong desire to delve deeper into the subject matter.
   
