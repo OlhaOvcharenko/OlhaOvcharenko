@@ -14,6 +14,9 @@
 
 - ⚡ Fun fact: **I ❤ travelling and rabbits 🐰**
 
+   **Other web-sites** <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="olha-ovcharenko-2633632b0" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/olha-ovcharenko-2633632b0?trk=profile-badge">Olha Ovcharenko</a></div>
+              
+
   # #
   At the beginning of my venture as a developer I find it both challenging and engaging simultaneously. It's sparked a multitude of questions
   and a strong desire to delve deeper into the subject matter.
