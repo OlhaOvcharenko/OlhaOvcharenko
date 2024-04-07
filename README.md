@@ -14,7 +14,12 @@
 
 - ⚡ Fun fact: **I ❤ travelling and rabbits 🐰**
 
-   **Other web-sites** <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="olha-ovcharenko-2633632b0" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/olha-ovcharenko-2633632b0?trk=profile-badge">Olha Ovcharenko</a></div>
+  
+
+   **Other web-sites**
+  # #
+  My LinkedIn
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="olha-ovcharenko-2633632b0" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/olha-ovcharenko-2633632b0?trk=profile-badge">Olha Ovcharenko</a></div>
               
 
   # #
