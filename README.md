@@ -8,8 +8,6 @@
   
 - 👩‍💻I like seeking new challenges at work to stay inspired and achieve success.
 
-- 💬 Ask me about **JavaScript/React/HTML/SCSS/MongoDB/MySQL.**
-
 - 📫 How to reach me: ovcharenko.olga.2014@gmail.com
 
 - ⚡ Fun fact: **I ❤ travelling and rabbits 🐰**
