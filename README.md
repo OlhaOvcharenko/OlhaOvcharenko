@@ -2,11 +2,11 @@
 
  [![HitCount](https://hits.dwyl.com/OlhaOvcharenko/OlhaOvcharenko.svg?style=flat-square)](http://hits.dwyl.com/OlhaOvcharenko/OlhaOvcharenko)
  
- And it means that I am actively improving my skills and always ready to get new knowledge as much as possible.
+ I am actively improving my skills and always ready to get new knowledge as much as possible.
           
 - 🔭 I’m currently working on upgrading of my final project.[Check it out!](https://github.com/OlhaOvcharenko/Jewelry-Shop)
   
-- 👩‍💻I like seeking new challenges at work  to stay inspired and achieve success.
+- 👩‍💻I like seeking new challenges at work to stay inspired and achieve success.
 
 - 💬 Ask me about **JavaScript/React/HTML/SCSS/MongoDB/MySQL.**
 
