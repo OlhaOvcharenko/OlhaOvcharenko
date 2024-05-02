@@ -12,7 +12,7 @@
   
   I firmly believe that dedicated practice and focused learning will lead to the desired results.
 
-        # #
+   #  #
         
 - 🔭 Currently working on upgrading one of my projects - the jewelry shop website.[Check it out!](https://github.com/OlhaOvcharenko/Jewelry-Shop)
   
