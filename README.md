@@ -7,14 +7,14 @@
   At the beginning of my venture as a developer I find it both challenging and engaging simultaneously. It's sparked a multitude of questions
   and a strong desire to delve deeper into the subject matter.
   
-  Equally attracted to both front-end and back-end development, I try to keep pace with the latest updates and innovations in both areas,
+  Equally attracted to front-end and back-end development, I try to keep pace with the latest updates and innovations in both areas,
   constantly seeking out new ideas and advancements in the world of technology.
   
   I firmly believe that dedicated practice and focused learning will lead to the desired results.
 
    #  #
         
-- 🔭 Currently working on upgrading one of my projects - the jewelry shop website.[Check it out!](https://github.com/OlhaOvcharenko/Jewelry-Shop)
+- 🔭 Currently working on creation of my portfolio.[Check it out!](https://github.com/OlhaOvcharenko/Portfolio)
   
 - 👩‍💻I like seeking new challenges at work to stay inspired and achieve success.
 
