@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋🏻 I'm Junior Full Stack Developer 👩🏻‍🎓</h1>
 
- [![HitCount](https://hits.dwyl.com/OlhaOvcharenko/OlhaOvcharenko.svg?style=flat-square)](http://hits.dwyl.com/OlhaOvcharenko/OlhaOvcharenko)
  
   I am actively improving my skills and always ready to get new knowledge as much as possible.
  
