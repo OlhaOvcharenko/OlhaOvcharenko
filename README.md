@@ -13,7 +13,7 @@
 
    #  #
         
-- 🔭 Currently working on [MultiWork](https://github.com/UPCoD-UNKD/proj_multiwork).
+- 🔭 Currently working on the project [MultiWork](https://github.com/UPCoD-UNKD/proj_multiwork).
 
 - 👩‍💻I like seeking new challenges at work to stay inspired and achieve success.
 
