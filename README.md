@@ -13,7 +13,7 @@
 
    #  #
         
-- 🔭 Currently working on creation of my portfolio.[Check it out!](https://github.com/OlhaOvcharenko/Portfolio)
+- 🔭 Currently working on the project MultiWork - (https://github.com/UPCoD-UNKD/proj_multiwork)
   
 - 👩‍💻I like seeking new challenges at work to stay inspired and achieve success.
 
